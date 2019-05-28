@@ -1,7 +1,6 @@
-Mi primer curso en platzi 
+mi primer curso en platzi 
 Git y Git Hub profesional
-
 
 27 de Mayo del 2019
 
-Hoy hablare sobre la experiencia del curso de git y github
+Teacher: Freddy Vega
