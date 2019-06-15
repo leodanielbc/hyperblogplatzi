@@ -5,3 +5,5 @@ Git y Git Hub profesional
 
 Teacher: Freddy Vega
 Colaborador del proyecto del curso de platzi
+
+Daniel Benitez es una persona que contribuye a este proyecto open source y nació en Internet
