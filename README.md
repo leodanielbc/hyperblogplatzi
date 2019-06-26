@@ -8,6 +8,11 @@ Un Blog chever para el [curso de Git y GitHub](http://platzi.com/cursos/git-gith
 * Trucos del teacher Freddy Vega
 * La experiencia de Freddy Vega
 * Creado por el increíble Platzi Team
+<<<<<<< HEAD
+=======
+* Incluye ejemplos en Linux, Windows y Mac
+* Disponible para todas las edades
+>>>>>>> readme-mejorado
 
 Como referencia al curso de Git y GitHub: **Este readme es una prueba**. Diseño como ejemplo para creación del archivo readme.md
 Puedes ir al [Curso de Git y GitHub de Platzi](https://platzi.com/cursos/git-github/ "Curso de Git y GitHub de Platzi")
